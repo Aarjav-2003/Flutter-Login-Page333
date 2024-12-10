@@ -1,4 +1,4 @@
-## Flutter Beautiful Login Page UI Design and Animation - Day 14
+## Flutter Beautiful Login Page UI Design and Animation 
 
 ```dart
 class Afgprogrammer extends Flutter100DaysOfCode {
